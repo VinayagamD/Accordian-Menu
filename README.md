@@ -4,7 +4,7 @@ __Repo consists of accordian menu design__
 
 Below are some preview design
 
-__Image1__\
+__Image1__
 
 ![Image1](https://raw.githubusercontent.com/VinayagamD/Accordian-Menu/master/images/menu1.PNG)
 
